@@ -5,11 +5,11 @@ github_repo: BATPOWER02
 github_url: https://github.com/mlab-modules/BATPOWER02
 homepage: false
 images:
-- doc/img/BATPOWER02A_big.jpg
 - doc/img/BATPOWER02A_small.jpg
+- doc/img/BATPOWER02A_big.jpg
 - doc/img/BATPOWER02A_QRcode.png
 mark: 50
 status: 4
 tags: []
 title: BATPOWER02
-updated: '2023-09-17T11:46:42.235371+00:00'
+updated: '2025-02-25T21:56:56.638197+00:00'
